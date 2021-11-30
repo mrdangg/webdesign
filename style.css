@@ -10,8 +10,8 @@
   margin: 0;
 }
 :root{
-  --pink: #ff74a4;
-  --violet: #9f6ea3;
+  --pink: #f70056;
+  --violet: #2d0231;
   --lightblack: #515C6F;
   --white: #ffffff;
   --darkwhite: #cecaca;
@@ -242,4 +242,15 @@ ul li .audio-duration{
 ul li.playing{
   pointer-events: none;
   color: var(--violet);
+}
+
+.footer{
+  list-style: none;
+  text-align: right;
+  text-transform: uppercase;
+}
+.footer-2{
+  list-style: none;
+  text-align: right;
+  text-transform: uppercase;
 }
