@@ -19,8 +19,8 @@ let allMusic = [
     src: "music-3"
   },
   {
-    name: "Ai Chung tình được mãi",
-    artist: "Đinh Tùng Huy「Cukak Remix」",
+    name: "Dịu Dàng Em Đến",
+    artist: "ERIK「Cukak Remix」",
     img: "music-4",
     src: "music-4"
   },
